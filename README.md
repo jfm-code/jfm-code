@@ -12,6 +12,9 @@ I'm currently a student at UMass Lowell and I'm looking for a co-op/internship f
 - <b>Programming in C & Memory Management</b>
   - [A sorting program for big numbers using bit manipulation](https://github.com/jfm-code/bignum-filter)
   - [The famous Ferry Loading problem](https://github.com/jfm-code/ferry-loading)
+
+- <b>Programming in Python & OpenCV</b>
+  - [An autonomous Cube Detection and Navigation](https://github.com/jfm-code/cube-pilot)
     
 - <b>Website Development</b>
   - [My personal blog](https://github.com/jfm-code/personal-blog)

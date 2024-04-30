@@ -1,6 +1,6 @@
 <h1>Hello there, I'm Jessica (My Viet name is My)!</h1>
 
-I'm currently a student at UMass Lowell and I'm looking for a co-op/internship for Summer and Fall 2024
+I'm currently a student at UMass Lowell majoring in Computer Science with double minors - Maths and Robotics
 
 <h2>👩‍💻 My Coding Projects:</h2>
 

@@ -13,6 +13,10 @@ I'm currently a student at UMass Lowell majoring in Computer Science with double
   - [A simulation of the universe with SFML](https://github.com/jfm-code/universe-simulation)
   - [DNA alignment calculator](https://github.com/jfm-code/dna-alignment)
   - [The famous Big Int program](https://github.com/jfm-code/big-int)
+
+- <b>Programming in HTML/CSS JavaScript/TypeScript</b>
+  - [My personal blog](https://github.com/jfm-code/my-blog)
+  - [API Backend Test with Jest](https://github.com/jfm-code/digitalauto-test-backend)
  
 - <b>Programming in C</b>
   - [A sorting program for big numbers using bit manipulation](https://github.com/jfm-code/bignum-filter)
@@ -21,10 +25,6 @@ I'm currently a student at UMass Lowell majoring in Computer Science with double
 - <b>Programming in Python</b>
   - [An autonomous Cube Detection and Navigation](https://github.com/jfm-code/cube-pilot)
   - [UI Automation Test with Selenium](https://github.com/jfm-code/digitalauto-test-frontend)
-    
-- <b>Programming in HTML/CSS JavaScript/TypeScript</b>
-  - [My personal blog](https://github.com/jfm-code/my-blog)
-  - [API Backend Test with Jest](https://github.com/jfm-code/digitalauto-test-backend)
 
 <h2> 💁‍♀️ Connect with me:</h2>
 

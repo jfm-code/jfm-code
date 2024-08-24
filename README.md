@@ -20,6 +20,7 @@ I'm currently a student at UMass Lowell majoring in Computer Science with double
 - <b>Programming in C</b>
   - [A sorting program for big numbers using bit manipulation](https://github.com/jfm-code/bignum-filter)
   - [The famous Ferry Loading problem](https://github.com/jfm-code/ferry-loading)
+  - [Valid parenthesis string solver](https://github.com/jfm-code/valid-string)
 
 - <b>Programming in Python</b>
   - [An autonomous Cube Detection and Navigation](https://github.com/jfm-code/cube-pilot)

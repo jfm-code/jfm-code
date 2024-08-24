@@ -7,7 +7,6 @@ I'm currently a student at UMass Lowell majoring in Computer Science with double
 - <b>Programming in C++</b>
   - [A Snake Game for multiple players in Anime version](https://github.com/jfm-code/2v2-snake-anime-edition)
   - [A simulation of predator and prey game](https://github.com/jfm-code/predator-prey-simulation)
-  - [Sokoban Game for single player](https://github.com/jfm-code/sokoban-game)
   - [A photo encryption & decryption program](https://github.com/jfm-code/photo-encrypt-decrypt)
   - [Build a Pythagorean tree with SFML](https://github.com/jfm-code/pythagorean-tree)
   - [A simulation of the universe with SFML](https://github.com/jfm-code/universe-simulation)

@@ -1,4 +1,4 @@
-<h1>Oh hi! You found me!</h1>
+<h1>👋 Oh hi! You found me!</h1>
 
 I'm Jessica (aka Mi), currently a student at UMass Lowell majoring in Computer Science with double minors - Maths and Robotics. This is a place where I flex all my coding projects and hopefully show you some interesting ideas that I developed. If you're also a thinker, let's dive in!
 

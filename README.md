@@ -14,7 +14,7 @@ I'm Jessica (aka Mi), currently a student at UMass Lowell majoring in Computer S
   - [UI Automation Test with Selenium](https://github.com/jfm-code/digitalauto-test-frontend)
   - [Cipher File Transfer](https://github.com/jfm-code/cipher-transfer)
 
- - <b>Programming in C++</b>
+- <b>Programming in C++</b>
   - [A Snake Game for multiple players in Anime version](https://github.com/jfm-code/2v2-snake-anime-edition)
   - [A simulation of predator and prey game](https://github.com/jfm-code/predator-prey-simulation)
   - [A photo encryption & decryption program](https://github.com/jfm-code/photo-encrypt-decrypt)

@@ -1,32 +1,35 @@
-<h1>👋 Oh hi! You found me!</h1>
+<h1>👋 Oh hi you found me!</h1>
 
-I'm Jessica (aka Mi), currently a student at UMass Lowell majoring in Computer Science with double minors - Maths and Robotics. This is a place where I flex all my coding projects and hopefully show you some interesting ideas that I developed. If you're also a thinker, let's dive in!
+I'm Jessica (aka Mi), currently a student at UMass Lowell majoring in Computer Science. This is a place where I flex all my coding projects and hopefully show you some interesting ideas that I built. If you're also a thinker, let's dive in!
 
 <h2>👩‍💻 My Babies:</h2>
 
-- <b>Programming in HTML/CSS JavaScript/TypeScript</b>
+- <b>Hawk Advisor</b>
+  - A first ever tool to recommend elective courses for UMass Lowell students
+  - [Android App version with Kotlin](https://github.com/HawkAdvisor/hawk-advisor-android-app)
+  - [Web & Mobile App version with Flutter](https://github.com/HawkAdvisor/hawk-advisor-web-mobile-app)
+
+- <b>Programming in JavaScript/TypeScript</b>
+  - [AI Agent Simulation & Monitoring](https://github.com/jfm-code/monitor-call-ai-agent)
   - [My personal blog](https://github.com/jfm-code/my-blog)
   - [RateMyCourses - a clone of RateMyProfessors but for course review](https://github.com/jfm-code/rate-my-courses)
   - [API Backend Test with Jest](https://github.com/jfm-code/digitalauto-test-backend)
  
 - <b>Programming in Python</b>
-  - [An autonomous Cube Detection and Navigation](https://github.com/jfm-code/cube-pilot)
+  - [AgeClassifier - Machine learning model to classify author's age](https://github.com/jfm-code/AgeClassifier)
+  - [Autonomous Cube Detection and Navigation](https://github.com/jfm-code/cube-pilot)
   - [UI Automation Test with Selenium](https://github.com/jfm-code/digitalauto-test-frontend)
   - [Cipher File Transfer](https://github.com/jfm-code/cipher-transfer)
 
 - <b>Programming in C++</b>
-  - [A Snake Game for multiple players in Anime version](https://github.com/jfm-code/2v2-snake-anime-edition)
-  - [A simulation of predator and prey game](https://github.com/jfm-code/predator-prey-simulation)
-  - [A photo encryption & decryption program](https://github.com/jfm-code/photo-encrypt-decrypt)
-  - [Build a Pythagorean tree with SFML](https://github.com/jfm-code/pythagorean-tree)
-  - [A simulation of the universe with SFML](https://github.com/jfm-code/universe-simulation)
+  - [Snake Game for multiple players in Anime version](https://github.com/jfm-code/2v2-snake-anime-edition)
+  - [Photo encryption & decryption](https://github.com/jfm-code/photo-encrypt-decrypt)
+  - [Build a Pythagorean tree](https://github.com/jfm-code/pythagorean-tree)
   - [DNA alignment calculator](https://github.com/jfm-code/dna-alignment)
-  - [The famous Big Int program](https://github.com/jfm-code/big-int)
 
 - <b>Programming in C</b>
   - [A sorting program for big numbers using bit manipulation](https://github.com/jfm-code/bignum-filter)
   - [The famous Ferry Loading problem](https://github.com/jfm-code/ferry-loading)
-  - [Valid parenthesis string solver](https://github.com/jfm-code/valid-string)
 
 
 
@@ -37,7 +40,6 @@ I'm Jessica (aka Mi), currently a student at UMass Lowell majoring in Computer S
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
 [gmail]: mailto:my.giangvu@gmail.com
-[instagram]: https://www.instagram.com/jfm_blog/
-[facebook]: https://www.facebook.com/this.is.jfm/
 [linkedin]: https://www.linkedin.com/in/jessica-vu-uml/
